@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="SueSakamoto.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="SueDown0000" x="0" y="0" width="208" height="260"/>
+	<SubTexture name="SueDown0001" x="0" y="0" width="208" height="260"/>
+	<SubTexture name="SueDown0002" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0003" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0004" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0005" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0006" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0007" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0008" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0009" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0010" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0011" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0012" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0013" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0014" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0015" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0016" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0017" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0018" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueDown0019" x="208" y="0" width="199" height="255" frameX="-7" frameY="-5" frameWidth="208" frameHeight="260"/>
+	<SubTexture name="SueFaceless0000" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0001" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0002" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0003" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0004" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0005" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0006" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0007" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0008" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0009" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0010" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0011" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0012" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0013" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0014" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0015" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0016" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0017" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0018" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueFaceless0019" x="407" y="0" width="185" height="252"/>
+	<SubTexture name="SueIdle0000" x="592" y="0" width="199" height="259"/>
+	<SubTexture name="SueIdle0001" x="592" y="0" width="199" height="259"/>
+	<SubTexture name="SueIdle0002" x="791" y="0" width="191" height="255" frameX="-4" frameY="-4" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0003" x="791" y="0" width="191" height="255" frameX="-4" frameY="-4" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0004" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0005" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0006" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0007" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0008" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0009" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0010" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0011" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0012" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0013" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueIdle0014" x="0" y="260" width="185" height="252" frameX="-5" frameY="-7" frameWidth="199" frameHeight="259"/>
+	<SubTexture name="SueLeft0000" x="185" y="260" width="201" height="259" frameX="0" frameY="-4" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0001" x="185" y="260" width="201" height="259" frameX="0" frameY="-4" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0002" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0003" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0004" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0005" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0006" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0007" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0008" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0009" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0010" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0011" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0012" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0013" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0014" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0015" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0016" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0017" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0018" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueLeft0019" x="386" y="260" width="198" height="263" frameX="0" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="SueRight0000" x="584" y="260" width="216" height="259"/>
+	<SubTexture name="SueRight0001" x="584" y="260" width="216" height="259"/>
+	<SubTexture name="SueRight0002" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0003" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0004" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0005" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0006" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0007" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0008" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0009" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0010" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0011" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0012" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0013" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0014" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0015" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0016" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0017" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0018" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueRight0019" x="800" y="260" width="202" height="254" frameX="-5" frameY="-5" frameWidth="216" frameHeight="259"/>
+	<SubTexture name="SueUp0000" x="0" y="523" width="194" height="271"/>
+	<SubTexture name="SueUp0001" x="0" y="523" width="194" height="271"/>
+	<SubTexture name="SueUp0002" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0003" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0004" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0005" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0006" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0007" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0008" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0009" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0010" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0011" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0012" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0013" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0014" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0015" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0016" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0017" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0018" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+	<SubTexture name="SueUp0019" x="194" y="523" width="191" height="264" frameX="-3" frameY="-7" frameWidth="194" frameHeight="271"/>
+</TextureAtlas>

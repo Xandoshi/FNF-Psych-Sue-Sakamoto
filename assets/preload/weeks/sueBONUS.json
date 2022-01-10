@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["egg-corridor", "sue", [171, 171, 171]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Cave Story",
+	"weekBefore": "sueweek",
+	"weekName": "suebonus",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

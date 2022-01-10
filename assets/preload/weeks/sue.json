@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["mimiga-town", "sue", [50, 77, 145]],
+		["safety", "sue", [50, 77, 145]],
+		["grasstown", "sue", [50, 77, 145]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Cave Story",
+	"weekBefore": "tutorial",
+	"weekName": "sueweek",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

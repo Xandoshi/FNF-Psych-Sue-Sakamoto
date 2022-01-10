@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? Who are you two?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ske bee bop ba bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you come from a Town called..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Funkin?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then I have to ask, how did you get to\\nThis island?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Deskeep Daboop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Daddy Dearest? Never heard of him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, Skebow, Boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A Rap Battle? Considering i don't have\\nanything better to do, Sure."
+		}
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-203,
+				-404
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SueLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-203,
+				-402
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SueDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-202,
+				-386
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SueUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-404
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SueRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-404
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SueIdle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-206,
+				-404
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "SueIdle",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-203,
+				-404
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "SueLeft",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-206,
+				-404
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "SueRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-202,
+				-386
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "SueUp",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SueSakamoto",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sue",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		77,
+		145
+	],
+	"camera_position": [
+		0,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

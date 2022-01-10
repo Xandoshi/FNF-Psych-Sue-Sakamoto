@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo ska beep do bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So this Dearest Person sent you though\\nA Computer and you ended up here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ske do bap de do dap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And how many times has he done it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Da Bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh, And you said\\n3 songs is enough to Escape?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well then, Better not keep you waiting then!"
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess i was learning in the moment."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Also the Music during that sounded familiar."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Skep do ba blep do da bep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You found it after landing in this place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ether way, I think we should\\nSing another song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skep de bap! bep bop!"
+		}
+	]
+}
